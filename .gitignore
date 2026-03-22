@@ -44,6 +44,18 @@
 input.txt
 output.txt
 
+
+# OS generated
+.DS_Store
+.DS_Store?
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+.vscode/
+.cursor/
+
 # OS
 .DS_Store
 

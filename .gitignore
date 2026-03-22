@@ -39,3 +39,11 @@
 
 # debug information files
 *.dwo
+
+# Input/Output files (CP specific)
+input.txt
+output.txt
+
+# OS
+.DS_Store
+
